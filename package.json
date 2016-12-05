@@ -1,0 +1,25 @@
+{
+    "author": "Nicholas Edwards",
+    "dependencies": {},
+    "keywords": [],
+    "name": "100-blocks",
+    "pebble": {
+        "displayName": "100 Blocks A Day",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "emery"
+        ],
+        "uuid": "07716b8b-b33a-4f96-a059-aa4d6bb16030",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "0.1.0"
+}
